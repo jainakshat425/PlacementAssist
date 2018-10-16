@@ -40,10 +40,7 @@ public class SpecificFeedbackActivity extends AppCompatActivity {
 
         studentCategory = getIntent().getIntExtra(StudentActivity.EXTRA_STUDENT_CATEGORY, 1);
         rollNo = getIntent().getStringExtra(FeedbackActivity.STUDENT_ROLL_NO);
-
-
-
-        Question testQuestion = answeredQuestionList.get(2);
+        
 
 
         impSubjectEt = (EditText) findViewById(R.id.important_subjects_et);
