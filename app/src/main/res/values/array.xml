@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- array containing name of branches for spinner -->
+    <string-array name="branch_array">
+        <item>Choose</item>
+        <item>CS</item>
+        <item>IT</item>
+        <item>ME</item>
+        <item>EC</item>
+        <item>CE</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PlacementAssist</string>
+    <string name="placed_student">Placed Student</string>
+    <string name="not_placed">Not Placed</string>
+    <string name="student_category">Student Category</string>
+    <string name="next">Next</string>
+    <string name="key_notes">Key notes...</string>
+    <string name="place_holder_question">Q.1 Preferred Question ?</string>
+    <string name="importance_amp_priority"><![CDATA[Importance & Priority]]></string>
+    <string name="branch_specific_feedback">Branch Specific Feedback</string>
+    <string name="branch">Branch</string>
+    <string name="enter_name_of_important_subjects">Enter name of Important Subjects</string>
+    <string name="institute">institute</string>
+    <string name="student">Student</string>
+    <string name="company">Company</string>
+    <string name="company_s_name">Company\'s Name</string>
+
+    <string-array name="requirements_array">
+        <item>Aptitude</item>
+        <item>Communication</item>
+        <item>Nobacks</item>
+        <item>Group Discussion</item>
+    </string-array>
+
+</resources>
